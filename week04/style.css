@@ -1,0 +1,28 @@
+body {
+  background-color: rgba(250,0,0);
+}
+
+h3 {
+  background-color: rgba(255,255,255,.5);
+  border:  solid white;
+  padding: 2vw;
+  margin: 3vh;
+}
+main {
+    background-color: rgba(31, 38, 161, 0.48);
+    border:  solid white;
+    border-radius:
+}
+div {
+  background-color: rgba(110, 12, 67, 0.67);
+  text-align: center;
+}
+p {
+  background-color: rgba(161, 31, 38, 0.18);
+  position: absolute;
+  bottom: 100px;
+  font-family: Avenir;
+}
+img {
+text-align: left;
+}
