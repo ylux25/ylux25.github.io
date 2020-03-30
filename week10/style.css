@@ -1,5 +1,5 @@
 body {
-	background-color: pink;
+	background-color: rgba(31, 38, 161, 0.48);
 }
 
 p {
@@ -16,7 +16,7 @@ h2 {
 h4 {
 	font-family: monospace;
 	padding: 2vw;
-	background-color: green;
+	background-color:  rgba(161, 31, 38, 0.18);
 }
 
 div {
